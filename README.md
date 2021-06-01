@@ -1,6 +1,6 @@
 # Gene Conversion
 
-First generations scripts I used to find gene conversion events in 4 generations pedigrees from bovines.
+First generation scripts I used to find gene conversion events in 4 generations pedigrees from bovines.
 These are not published and must be improved, but hopefully it can be helpful for others :blush:
 
 
